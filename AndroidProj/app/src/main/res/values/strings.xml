@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Tuna</string>
+    <string name="facebook_app_id">2737139973181892</string>
+    <string name="fb_login_protocol_scheme">fb2737139973181892</string>
+    <string name="search_label">Search Bar</string>
+    <string name="search_hint">Insert ingredients: rice, tuna, ...</string>
+    <string name="app_label">Recipe-SE</string>
+    <string name="log_out">Log out</string>
+    <string name="supporting_text">lorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?</string>
+    <string name="queryLabel">Searching:</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="loading_message">Loading</string>
+    <string name="no_result_error">No result found. Try another query!</string>
+    <string name="title_activity_show_markets">Map</string>
+    <string name="preference_file_key">ingredient_list</string>
+    <string name="Tuna">Tuna</string>
+    <string name="favorite">Favourite Recipes</string>
+    <string name="content_description_search">Search</string>
+    <string name="search">Search</string>
+    <string name="menu">menu</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">Delete</string>
+    <string name="show">Show</string>
+    <string name="save">Add to Favourite</string>
+    <string name="no_saved_recipe_text">You have not favourite recipes yet!</string>
+    <string name="preference_file_key_query">query_result_tmp_storage</string>
+    <string name="api_base_url">https://intense-peak-78648.herokuapp.com/</string>
+    <string name="generic_error_title">Error</string>
+    <string name="generic_error_text">We are sorry but something went wrong. Retry!</string>
+    <string name="ok">Ok</string>
+    <string name="auth_req_message">Please, authenticate yourself to use the app.</string>
+    <string name="sidebar_search">Search</string>
+    <string name="sidebar_saved_recipe">Favourite recipes</string>
+    <string name="sidebar_shopping_list">Shopping list</string>
+    <string name="sidebar_find_markets">Find markets</string>
+    <string name="sidebar_log_out">Log out</string>
+
+
+</resources>
